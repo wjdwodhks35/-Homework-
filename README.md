@@ -39,3 +39,9 @@ getch와 같은 역할인 ReadKey를 알았다. 평소에는 모듈화를 쓸 �
 ![image](https://user-images.githubusercontent.com/110615719/222948082-cf80c7b8-0812-41f8-bebf-427e452fce3c.png)
 - 낚시터
 ![image](https://user-images.githubusercontent.com/110615719/222948092-15f5768d-d2cf-4e35-9fe6-d0d2506aef40.png)
+### 플레이 화면
+
+
+https://user-images.githubusercontent.com/110615719/222949294-646822fd-74c0-466b-857c-ad6ff0b1a371.mp4
+
+
