@@ -20,7 +20,7 @@ getch와 같은 역할인 ReadKey를 알았다. 평소에는 모듈화를 쓸 �
 - 글자에 ForegroundColor 을 사용해 색을 바꿈
 - 보기 하게 하기 위해 #region을 사용하였다.
 - 모듈화 한것들
-- ![image](https://user-images.githubusercontent.com/110615719/222947803-bafdb8b4-5780-4784-9d7d-c39a007458cd.png)
+![image](https://user-images.githubusercontent.com/110615719/222947803-bafdb8b4-5780-4784-9d7d-c39a007458cd.png)
 - 시작
 ![image](https://user-images.githubusercontent.com/110615719/222946799-cb21bebf-3311-4972-88b5-ffdfe6dd80ad.png)
 - 내부 기능
