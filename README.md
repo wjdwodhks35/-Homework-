@@ -14,7 +14,8 @@
 getch와 같은 역할인 ReadKey를 알았다. 평소에는 모듈화를 쓸 상황이 없어 안써왔었지만 static이 같은 class에서만 사용할 수 있다는 것을 알았다.
 ### 사용한 코드
 - 화면을 전환 할때마다 화면에 글이 누적되어 Clear를 사용하였으며, 할 수 있다면 왠만한 변수는 private로 하였고 변수 안의 값이 변하면 안되는 것들에는  static을 사용하였다. 가장 어려웠던 타이머는 token을 활용하였고, 그리고 모듈화를 사용하여 꽤나 많은 것을 만들었다. 이렇게 많이 만든것 이번이 처음이였으며 선생님이 이름은 꼭 알아볼 수 있게 만들라고 한말을 체감하기 아주 좋은 것 이였다. 그리고 뭔가 밋밋한것 같아 글자에 ForegroundColor 을 사용해 색을 바꿨더니 좀더 나아진 것 같았다. 그리고 보기 편하게 하기 위해 #region을 사용하였다.
-
+- 모듈화 한것들
+- ![image](https://user-images.githubusercontent.com/110615719/222947803-bafdb8b4-5780-4784-9d7d-c39a007458cd.png)
 - 시작
 ![image](https://user-images.githubusercontent.com/110615719/222946799-cb21bebf-3311-4972-88b5-ffdfe6dd80ad.png)
 - 내부 기능
