@@ -34,7 +34,7 @@ getch와 같은 역할인 ReadKey를 알았다. 평소에는 모듈화를 쓸 �
 -시작 
 ![image](https://user-images.githubusercontent.com/110615719/222948033-4171f60d-3351-40ee-90a3-3e5f1ebbd247.png)
 - 처음 들어갔을때 화면
-![image](https://user-images.githubusercontent.com/110615719/222948249-b2d9b5fc-19b7-4040-bdd2-affb4c9fb183.png)46d7e5058b14.png)
+![image](https://user-images.githubusercontent.com/110615719/222948249-b2d9b5fc-19b7-4040-bdd2-affb4c9fb183.png)
 - 상점
 ![image](https://user-images.githubusercontent.com/110615719/222948082-cf80c7b8-0812-41f8-bebf-427e452fce3c.png)
 - 낚시터
